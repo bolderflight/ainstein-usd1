@@ -1,4 +1,7 @@
 # Changelog
 
+## v1.1.0
+- Added CMake support for Teensy MMOD
+
 ## v1.0.0
 - Initial baseline
